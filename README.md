@@ -1,2 +1,5 @@
+
 # hello_world
-This repository is for practicing the GitHub Flow.
+I am Bắc.I come from VietNam.I am majoring in software engineering.I am a student about to graduate.
+
+
